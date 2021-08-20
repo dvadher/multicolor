@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?cc5cbad733140ef8e3a9b260ae5554ee") format("truetype"),
+url("./flaticon.woff?cc5cbad733140ef8e3a9b260ae5554ee") format("woff"),
+url("./flaticon.woff2?cc5cbad733140ef8e3a9b260ae5554ee") format("woff2"),
+url("./flaticon.eot?cc5cbad733140ef8e3a9b260ae5554ee#iefix") format("embedded-opentype"),
+url("./flaticon.svg?cc5cbad733140ef8e3a9b260ae5554ee#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone-call:before {
+    content: "\f101";
+}
+.flaticon-email:before {
+    content: "\f102";
+}
+.flaticon-phone-call-1:before {
+    content: "\f103";
+}
+.flaticon-headphones:before {
+    content: "\f104";
+}
+.flaticon-shopping-cart-of-checkered-design:before {
+    content: "\f105";
+}
+.flaticon-right:before {
+    content: "\f106";
+}
+.flaticon-printer:before {
+    content: "\f107";
+}
+.flaticon-block:before {
+    content: "\f108";
+}
+.flaticon-coding:before {
+    content: "\f109";
+}
+.flaticon-check:before {
+    content: "\f10a";
+}
+.flaticon-chevron-up:before {
+    content: "\f10b";
+}
+.flaticon-up-arrow-angle:before {
+    content: "\f10c";
+}
+.flaticon-placeholder:before {
+    content: "\f10d";
+}
+.flaticon-location:before {
+    content: "\f10e";
+}
+.flaticon-location-pin:before {
+    content: "\f10f";
+}
+.flaticon-facebook-app-symbol:before {
+    content: "\f110";
+}
+.flaticon-twitter-black-shape:before {
+    content: "\f111";
+}
+.flaticon-instagram-logo:before {
+    content: "\f112";
+}
+.flaticon-eye:before {
+    content: "\f113";
+}
+.flaticon-invisible:before {
+    content: "\f114";
+}
+.flaticon-settings:before {
+    content: "\f115";
+}
+.flaticon-menu:before {
+    content: "\f116";
+}
+.flaticon-list:before {
+    content: "\f117";
+}
+.flaticon-close:before {
+    content: "\f118";
+}
+.flaticon-phone-call-2:before {
+    content: "\f119";
+}
+.flaticon-wall-clock:before {
+    content: "\f11a";
+}
+.flaticon-blanket:before {
+    content: "\f11b";
+}
+.flaticon-google-plus:before {
+    content: "\f11c";
+}
+.flaticon-globe:before {
+    content: "\f11d";
+}
+.flaticon-technical-support:before {
+    content: "\f11e";
+}
+.flaticon-technical-support-1:before {
+    content: "\f11f";
+}
+.flaticon-briefcase:before {
+    content: "\f120";
+}
+.flaticon-handshake:before {
+    content: "\f121";
+}
+.flaticon-delivery:before {
+    content: "\f122";
+}
+.flaticon-customer-service:before {
+    content: "\f123";
+}
+.flaticon-whatsapp:before {
+    content: "\f124";
+}
